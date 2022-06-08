@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\engue\\Desktop\\Bootcamp\\bootcamp_CSharpLesson2\\CSharpLesson2\\Ejercici2\\Ejercicio2.csproj",
+      "projectUniqueName": "C:\\Users\\engue\\Desktop\\Bootcamp\\bootcamp_CSharpLesson2\\CSharpLesson2\\Ejercicio2\\Ejercicio2.csproj",
       "projectName": "Ejercicio2",
-      "projectPath": "C:\\Users\\engue\\Desktop\\Bootcamp\\bootcamp_CSharpLesson2\\CSharpLesson2\\Ejercici2\\Ejercicio2.csproj",
+      "projectPath": "C:\\Users\\engue\\Desktop\\Bootcamp\\bootcamp_CSharpLesson2\\CSharpLesson2\\Ejercicio2\\Ejercicio2.csproj",
       "packagesPath": "C:\\Users\\engue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\engue\\Desktop\\Bootcamp\\bootcamp_CSharpLesson2\\CSharpLesson2\\Ejercici2\\obj\\",
+      "outputPath": "C:\\Users\\engue\\Desktop\\Bootcamp\\bootcamp_CSharpLesson2\\CSharpLesson2\\Ejercicio2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
